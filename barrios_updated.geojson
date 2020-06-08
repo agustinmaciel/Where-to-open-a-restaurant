@@ -63,6 +63,6 @@
 { "type": "Feature", "properties": { "id_barrio": 53, "nombre": "Conciliacion", "codigo": "CI" }, "geometry": { "type": "Point", "coordinates": [ -34.8235183,-56.2389708 ]}},
 { "type": "Feature", "properties": { "id_barrio": 55, "nombre": "Nuevo Paris", "codigo": "NP" }, "geometry": { "type": "Point", "coordinates": [ -34.8398564,-56.2613437 ]}},
 { "type": "Feature", "properties": { "id_barrio": 60, "nombre": "Lezica y Melilla", "codigo": "LZ" }, "geometry": { "type": "Point", "coordinates": [ -34.7932558,-56.2724448 ]}},
-{ "type": "Feature", "properties": { "id_barrio": 57, "nombre": "Paso de la Arena", "codigo": "PA" }, "geometry": { "type": "Point", "coordinates": [ -34.8255922,-56.4101572 ]}
+{ "type": "Feature", "properties": { "id_barrio": 57, "nombre": "Paso de la Arena", "codigo": "PA" }, "geometry": { "type": "Point", "coordinates": [ -34.8255922,-56.4101572 ]}}
 ]
 }
