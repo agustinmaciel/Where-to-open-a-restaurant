@@ -1,63 +1,63 @@
-Barrio;CCZ;Municipio;Poblacion;
-Ciudad Vieja;1;B;11590;
-Centro;1;B;11590;
-Barrio Sur;1;B;11590;
-Cordon;2;B;33739;
-Palermo;2;B;33739;
-Parque Rodo;2;B;33739;
-Punta Carretas;5;CH;30471;
-Pocitos;5;CH;30471;
-Buceo;5;CH;30471;
-Parque Batlle y Villa Dolores;5;CH;30471;
-Malvin;7;E;25508;
-Malvin Norte;6;E;19677;
-Punta Gorda;7;E;25508;
-Carrasco;8;E;21675;
-Carrasco Norte;8;E;21675;
-Banados de Carrasco;9;F;18764;
-Maronas y Parque Guarani;9;F;18764;
-Flor de Maronas;9;F;18764;
-Las Canteras;9;F;18764;
-Punta de Rieles y Bella Italia;9;F;18764;
-Jardines del Hipodromo;9;F;18764;
-Ituzaingo;9;F;18764;
-Union;6;D;19677;
-Villa Espanola;11;D;22545;
-Mercado Modelo y Bolivar;11;D;22545;
-Castro y Perez Castellanos;11;D;22545;
-Cerrito de la Victoria;11;D;22545;
-Las Acacias y Marconi;11;D;22545;
-Aires Puros;10;C;15315;
-Casavalle;11;D;22545;
-Piedras Blancas;10;D;15315;
-Manga y Toledo Chico;10;D;15315;
-Paso de las Duranas;13;G;15555;
-Penarol y Lavalleja;13;G;15555;
-Villa del Cerro;17;A;27710;
-Casabo y Pajas Blancas;17;A;27710;
-La Paloma y Tomkinson;17;A;27710;
-La Teja;14;A;41556;
-Prado y Nueva Savona;15;A;14546;
-Capurro y Bella Vista y Arroyo Seco;16;C;37617;
-Aguada;1;B;11590;
-Reducto;3;C;13707;
-Atahualpa;15;C;14546;
-Jacinto Vera;3;C;13707;
-La Figurita;3;C;13707;
-Larranaga;4;CH;18822;
-La Blanqueada;6;CH;19677;
-Villa Munoz y Retiro y Goes;3;B;13707;
-La Comercial;3;B;13707;
-Tres Cruces;4;B;18822;
-Brazo Oriental;3;C;13707;
-Sayago;13;G;15555;
-Conciliacion;13;G;15555;
-Belvedere y Paso Molino;13;A;15555;
-Nuevo Paris;13;A;15555;
-Tres Ombues y Pueblo Victoria;14;A;41556;
-Paso de la Arena y Santiago Vazquez;18;A;41668;
-Colon Sureste y Abayuba;12;G;19325;
-Colon Centro y Noroeste;12;G;19325;
-Lezica y Melilla;12;A;19325;
-Villa Garcia y Manga Rural;9;F;18764;
-Manga;9;F;18764;
+Barrio;CCZ;Municipio;Poblacion
+Aguada;1;B;11590
+Aires Puros;10;C;15315
+Atahualpa;15;C;14546
+Banados de Carrasco;9;F;18764
+Barrio Sur;1;B;11590
+Belvedere;13;A;15555
+Brazo Oriental;3;C;13707
+Buceo;5;CH;30471
+Capurro y Bella Vista;16;C;37617
+Carrasco;8;E;21675
+Carrasco Norte;8;E;21675
+Casabo y Pajas Blancas;17;A;27710
+Casavalle;11;D;22545
+Castro y P. Castellanos;11;D;22545
+Centro;1;B;11590
+Cerrito;11;D;22545
+Cerro;17;A;27710
+Ciudad Vieja;1;B;11590
+Colon Centro y Noroeste;12;G;19325
+Colon Sureste y Abayuba;12;G;19325
+Conciliacion;13;G;15555
+Cordon;2;B;33739
+Flor de Maronas;9;F;18764
+Ituzaingo;9;F;18764
+Jacinto Vera;3;C;13707
+Jardines del Hipodromo;9;F;18764
+La Blanqueada;6;CH;19677
+La Comercial;3;B;13707
+La Figurita;3;C;13707
+La Paloma y Tomkinson;17;A;27710
+La Teja;14;A;41556
+Larranaga;4;CH;18822
+Las Acacias;11;D;22545
+Las Canteras;9;F;18764
+Lezica y Melilla;12;A;19325
+Malvin;7;E;25508
+Malvin Norte;6;E;19677
+Manga;9;F;18764
+Manga y Toledo Chico;10;D;15315
+Maronas y Parque Guarani;9;F;18764
+Mercado Modelo y Bolivar;11;D;22545
+Nuevo Paris;13;A;15555
+Palermo;2;B;33739
+Parque Rodo;2;B;33739
+Paso de la Arena;18;A;41668
+Paso de las Duranas;13;G;15555
+Penarol y Lavalleja;13;G;15555
+Piedras Blancas;10;D;15315
+Pocitos;5;CH;30471
+Pque. Batlle y V. Dolores;5;CH;30471
+Prado y Nueva Savona;15;A;14546
+Pta. Rieles y Bella Italia;9;F;18764
+Punta Carretas;5;CH;30471
+Punta Gorda;7;E;25508
+Reducto;3;C;13707
+Sayago;13;G;15555
+Tres Cruces;4;B;18822
+Tres Ombues y Victoria;14;A;41556
+Union;6;D;19677
+Villa Espanola;11;D;22545
+Villa Garcia y Manga Rur.;9;F;18764
+Villa Munoz y Retiro;3;B;13707
