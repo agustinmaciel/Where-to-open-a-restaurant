@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id_barrio": 32, "nombre": "Manga y Toledo Chico", "codigo": "MT" }, "geometry": { "type": "Point", "coordinates": [ -56.1859925,-34.7644335 ]},
+{ "type": "Feature", "properties": { "id_barrio": 32, "nombre": "Manga y Toledo Chico", "codigo": "MT" }, "geometry": { "type": "Point", "coordinates": [ -56.1859925,-34.7644335 ]}},
 { "type": "Feature", "properties": { "id_barrio": 58, "nombre": "Colon Sureste y Abayuba", "codigo": "CY" }, "geometry": { "type": "Point", "coordinates": [ -56.2248196,-34.7781884 ]}},
 { "type": "Feature", "properties": { "id_barrio": 61, "nombre": "Villa Garcia y Manga Rur.", "codigo": "VG" }, "geometry": { "type": "Point", "coordinates": [ -56.0882308,-34.7772547 ]}},
 { "type": "Feature", "properties": { "id_barrio": 16, "nombre": "Banados de Carrasco", "codigo": "BC" }, "geometry": { "type": "Point", "coordinates": [ -56.1204446,-34.8324871 ]}},
