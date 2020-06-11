@@ -1,5 +1,4 @@
-# Coursera_Capstone
-Final Coursera Project
+# Coursera_Capstone - Final Coursera Project
 
 ## Capstone Report.pdf
 The pdf with the projects' report
